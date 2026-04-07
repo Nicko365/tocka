@@ -11,12 +11,10 @@ export default function Home() {
     <>
       <Hero />
       <About />
-      <PromoVideo />
       <Facilities />
       <Membership />
       <Gallery />
       <Contact />
-
     </>
   )
 }

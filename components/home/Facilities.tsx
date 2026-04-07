@@ -75,7 +75,7 @@ export default function Facilities() {
     },
     {
       image: '/images/restaurante-1.webp',
-      title: 'Restaurante & Pizzaria',
+      title: 'Pizzaria',
       description: 'Menu variado para todos'
     },
     {
@@ -235,7 +235,7 @@ export default function Facilities() {
               </div>
 
               <p className="text-emerald-100 leading-relaxed font-light">
-                Contamos com um Restaurante & Pizzaria com menu variado para atender todos os gostos.
+                Contamos com uma Pizzaria com menu variado para atender todos os gostos.
                 Também temos um bar completo para você aproveitar o dia com a gente.
               </p>
 
